@@ -39,7 +39,7 @@
             hoursSlept: 7, 
             tookPills: "",
             selectedMoods: ['😀', '🙂'],
-            imageUrl: '/public/Day1.jpg'
+            imageUrl: '/Day1.jpg'
         },
         { 
             id: 2, 
@@ -50,7 +50,7 @@
             hoursSlept: 6, 
             tookPills: "",
             selectedMoods: ['😕', '😔'],
-            imageUrl: '/public/Day2.jpg'
+            imageUrl: '/Day2.jpg'
         },
         { 
             id: 3, 
@@ -61,7 +61,7 @@
             hoursSlept: 8, 
             tookPills: "Yes",
             selectedMoods: ['😀', '😎'],
-            imageUrl: '/public/Day3.jpg'
+            imageUrl: '/Day3.jpg'
         },
         { 
             id: 4, 
@@ -72,7 +72,7 @@
             hoursSlept: 5, 
             tookPills: "Yes",
             selectedMoods: ['😐', '😕'],
-            imageUrl: '/public/Day4.jpg'
+            imageUrl: '/Day4.jpg'
         },
         { 
             id: 5, 
@@ -83,7 +83,7 @@
             hoursSlept: 9, 
             tookPills: "No",
             selectedMoods: ['🙂', '😎'],
-            imageUrl: '/public/Day5.jpg'
+            imageUrl: '/Day5.jpg'
         }
     ];
 
