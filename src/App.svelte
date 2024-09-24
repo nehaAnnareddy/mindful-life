@@ -17,7 +17,7 @@
 
   // Navbar variables
   let userName = 'Neha Annareddy';
-  let userImage = '/public/personimage.jpg';
+  let userImage = '/personimage.jpg';
   let showProfileCard = false;
 
   function toggleProfileCard() {
