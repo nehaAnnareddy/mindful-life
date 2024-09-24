@@ -248,7 +248,7 @@
         min-height: 350px;
         
         /* Background image for cards */
-        background-image: url('public/abstract-white-wavy-ripple-pattern-background-curve-line-texture-for-modern-graphic-design-element-website-banner-and-poster-or-business-card-decoration-vector.jpg'); 
+        background-image: url('/abstract-white-wavy-ripple-pattern-background-curve-line-texture-for-modern-graphic-design-element-website-banner-and-poster-or-business-card-decoration-vector.jpg'); 
         background-size: cover; 
         background-position: center; 
         background-repeat: no-repeat; 
