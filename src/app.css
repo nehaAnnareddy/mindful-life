@@ -1,0 +1,16 @@
+
+/* Base CSS for website + background image */
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('public/abstract-rose-quarz-pink-fusia-background.jpg'); 
+    background-size: cover;   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
