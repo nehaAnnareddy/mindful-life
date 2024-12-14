@@ -115,6 +115,7 @@
     function toggleDropdown() {
         isDropdownVisible = !isDropdownVisible;
     }
+    
 
     function toggleSummary() {
         showSummary = !showSummary;
@@ -327,34 +328,38 @@
         margin-top: 10px;
         text-align: left;
         padding-left: 0;
+        max-height: 150px; 
+        overflow-y: auto;
     }
 
     .gratitude-list li {
-        margin-bottom: 5px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        list-style-type: disc;
-        padding-left: 10px;
-    }
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none; 
+    padding: 5px 10px; 
+    border-bottom: 1px solid #ddd; 
+}
 
-    .remove-button {
-        background-color: #ff6d94;
-        color: white;
-        border: none;
-        border-radius: 50%;
-        width: 30px;
-        height: 30px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-size: 18px;
-        cursor: pointer;
-    }
+.remove-button {
+    background-color: #ff6d94;
+    color: white;
+    border: none;
+    border-radius: 5px; 
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px; 
+}
 
-    .remove-button:hover {
-        background-color: #cc3c7f;
-    }
+.remove-button:hover {
+    background-color: #cc3c7f;
+}
 
     .mood-checkbox {
     display: flex;
