@@ -339,7 +339,7 @@
     }
 
     .remove-button {
-        background-color: #ff3c7a;
+        background-color: #ff6d94;
         color: white;
         border: none;
         border-radius: 50%;
@@ -357,20 +357,25 @@
     }
 
     .mood-checkbox {
-        display: flex;
-        align-items: center;
-        padding: 10px;
-        border: 1px solid #ddd;
-        border-radius: 10px;
-        font-size: 18px;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-    }
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
 
-    .mood-checkbox.selected {
-        background-color: #ff6d94;
-        color: white;
-    }
+.mood-checkbox:hover {
+    background-color: #ffe4e1; 
+    color: #ff6d94;
+}
+
+.mood-checkbox.selected {
+    background-color: #ff6d94;
+    color: white;
+}
 
     .mood-selector {
         display: grid;
