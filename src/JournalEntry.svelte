@@ -280,7 +280,7 @@
     }
 
     button:hover {
-        background-color: #b30000;
+        background-color: #cc3c7f;
     }
   
     .sleep-tracker {
@@ -312,7 +312,7 @@
     button {
       margin-top: 10px;
       padding: 10px;
-      background-color: #ff6d94;
+      background-color: #ff3c7a;
       color: white;
       border: none;
       border-radius: 5px;
@@ -320,7 +320,7 @@
     }
   
     button:hover {
-      background-color: #b30000;
+      background-color: #cc3c7f;
     }
   
     .gratitude-list {
@@ -339,7 +339,7 @@
     }
 
     .remove-button {
-        background-color: #dc3545;
+        background-color: #ff3c7a;
         color: white;
         border: none;
         border-radius: 50%;
@@ -353,7 +353,7 @@
     }
 
     .remove-button:hover {
-        background-color: #c82333;
+        background-color: #cc3c7f;
     }
 
     .mood-checkbox {

@@ -59,7 +59,7 @@
     }
 
     .edit-button {
-        background-color: #ff6d94;
+        background-color: #ff3c7a;
         color: white;
         border: none;
         border-radius: 5px;
@@ -71,7 +71,7 @@
     }
 
     .edit-button:hover {
-        background-color: #b30000;
+        background-color: #cc3c7f;
     }
 
     .header {
