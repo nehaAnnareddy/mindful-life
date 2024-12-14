@@ -85,7 +85,7 @@
         width: 60%;
         max-height: 80vh; 
         overflow-y: auto; 
-        background-color: white;
+        background-image: url('/abstract-rose-quarz-pink-fusia-background.jpg'); 
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         padding: 20px;
         border-radius: 10px;
@@ -104,7 +104,10 @@
     }
 
     .card {
-        background-color: #ffffff;
+        background-image: url('/abstract-white-wavy-ripple-pattern-background-curve-line-texture-for-modern-graphic-design-element-website-banner-and-poster-or-business-card-decoration-vector.jpg'); 
+        background-size: cover; 
+        background-position: center; 
+        background-repeat: no-repeat; 
         border: 1px solid #ddd;
         padding: 20px;
         border-radius: 10px;
